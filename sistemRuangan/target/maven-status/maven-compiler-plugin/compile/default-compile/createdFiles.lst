@@ -1,0 +1,6 @@
+service\RoomServiceImpl.class
+service\RoomService.class
+model\Classroom.class
+model\Laboratory.class
+model\Room.class
+main\main.class
